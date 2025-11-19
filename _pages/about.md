@@ -16,7 +16,7 @@ profile:
       LinkedIn <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -30,13 +30,31 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Huanzhuo Wu, and I am currently a telecommunications researcher at Nokia in Munich, Germany. Prior to this, I held a research position at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. My primary research interests lie in Mobile Network Architecture and In-Network/Edge Computing, with a focus on 5G-Advanced and 6G technologies, with numerous peer-reviewed <a href="/publications/">publications</a>.
+Welcome to my professional space!
+
+I am a 5G/6G researcher at Nokia Standards in Munich, with a dedicated focus on advancing 3GPP network architecture, particularly in the areas of IMS, AI/ML-driven data collection, edge computing, and end-to-end user plane design. My work centers on driving innovation for next-generation mobile networks, contributing to key 3GPP study and work items, and leading back-office efforts that help shape the future of telecommunications.
+
+I hold a PhD in Electrical Engineering and a Master’s degree in Computer Science from TU Dresden, Germany, complemented by a Bachelor’s degree in Computer Science from Chang’an University, China. During my academic journey, I also gained valuable industry experience through internships at BMW and Audi, which strengthened the connection between theoretical research and real-world engineering.
+
+Throughout my industrial career and doctoral research, I have published numerous high-quality scientific articles and filed over 30 patents in the past three years. I actively contribute to the research community by serving as a reviewer and editorial board member for several respected conferences and journals in telecommunications.
+
+Here, you can explore my latest contributions and achievements:
+  <ul>
+    <li>Patents Portfolio: Browse a selection of publicly accessible patents from the more than 30 I have filed, covering innovative work in IMS, AI/ML data collection security, edge computing, and beyond.</li>
+    <li>Recent Publications: Read my high-impact articles published in leading journals and conferences, reflecting ongoing research across 5G and 6G technologies.</li>
+    <li>Download My CV: Access a comprehensive overview of my background, experience, and technical expertise.</li>
+  </ul>
+
+Feel free to navigate through this website to learn more about my professional journey and the technologies I am passionate about. Whether you are a fellow researcher, industry peer, or potential collaborator, I hope this site provides valuable insight into my work and vision for the future of mobile networks. If you would like to connect or collaborate, you can reach me via <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn <i class="fab fa-linkedin"></i></a> or <a href="mailto:wuhuanzhuo@gmail.com">email <i class="fas fa-envelope"></i></a>.
+
+
+<!-- My name is Huanzhuo Wu, and I am currently a telecommunications researcher at Nokia in Munich, Germany. Prior to this, I held a research position at the Deutsche Telekom Chair of Communication Networks (ComNets) at TU Dresden, Germany. My primary research interests lie in Mobile Network Architecture and In-Network/Edge Computing, with a focus on 5G-Advanced and 6G technologies, with numerous peer-reviewed <a href="/publications/">publications</a>. -->
 <!-- In addition, I am in charge of applying and managing <a href="/projects/">research projects</a> with leading research institutions and companies. -->
 <!-- My current work includes contributing to <a href="/projects/">research projects</a>, and <a href="/teaching/">teaching/supervising students</a> of the faculty. -->
 
-I completed my Ph.D. in Telecommunications Engineering at ComNets, TU Dresden, from 2017 to 2022. Before that, I earned a Master of Science in Computer Science with honors from TU Dresden in 2016. During my studies, I gained practical experience through internships at BMW AG (2015) and Audi China (2016), and worked as a student assistant at TU Dresden. I received my Bachelor’s degree in Computer Science from Chang’an University, China, in 2011.
+<!-- I completed my Ph.D. in Telecommunications Engineering at ComNets, TU Dresden, from 2017 to 2022. Before that, I earned a Master of Science in Computer Science with honors from TU Dresden in 2016. During my studies, I gained practical experience through internships at BMW AG (2015) and Audi China (2016), and worked as a student assistant at TU Dresden. I received my Bachelor’s degree in Computer Science from Chang’an University, China, in 2011. -->
 
-Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar<i class="ai ai-google-scholar"></i></a> profile for my publications. You can also reach me via <a href="mailto:wuhuanzhuo@gmail.com">email <i class="fas fa-envelope"></i></a> or connect with me on <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn <i class="fab fa-linkedin"></i></a>.
+<!-- Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar<i class="ai ai-google-scholar"></i></a> profile for my publications. You can also reach me via <a href="mailto:wuhuanzhuo@gmail.com">email <i class="fas fa-envelope"></i></a> or connect with me on <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn <i class="fab fa-linkedin"></i></a>. -->
 
 <br>
 <br>
@@ -46,22 +64,25 @@ Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scho
   <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">January 2023 to present</th>
-      <td>Senior Research Specialist at Nokia
+      <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, IMS evolution, AI/ML-driven data collection, edge computing, E2E user plane design
         <ul>
-          <li>5G-Advanced and 6G related research</li>
-          <li>Core network architecture design</li>
-          <li>3GPP standardization</li>
+          <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS</li>
+          <li>Lead back-office IMS team for Nokia’s 3GPP standardization activities, coordinating internal consensus and driving contributions for key study and work items</li>
+          <li>Support research topics for 6G, including end-to-end user plane design, RAN Set concepts, and security aspect of AI/ML data collection</li>
+          <li>Filed 30+ patents in RAN architecture, core architecture, and multimedia communication within three years</li>
+          <li>Recognized with Nokia’s Outstanding Leadership Award and repeatedly acknowledged by reasearch leadership and the SA2 delegation lead for outstanding contributions</li>
         </ul>
       </td>
     </tr>
     <tr>
       <th scope="row">February 2017 to December 2022</th>
-      <td>Researcher at TU Dresden
+      <td>Researcher (Junior Researcher / PhD Candidate), TU Dresden, Germany <br> Research Areas: Electrical Engineering, In-network Computing, SDN, edge computing
         <ul>
-          <li>Coordinating and managing research projects, more details can be found on the page of <a href="/projects/">Projects</a></li>
-          <li>Conducting research on In-network Computing and Industrial 5G networks using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework, more details can be found on the pages of <a href="/publications/">Publications</a> and <a href="/activities/">Activity</a></li>
-          <li>Applying for funding on research projects</li>
-          <li>Teaching and supervising students, more details can be found on the page of <a href="/teaching/">Teaching</a></li>
+          <li>Coordinated and managed funded research projects with industry partners and research institutions; contributed to project proposal writing</li>
+          <li>Conducting research on In-network Computing and Industrial 5G networks using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework</li>
+          <li>Published more than 20 high-quality scientific articles in leading journals and conferences.</li>
+          <li>Applying for in total 900k € funding on research projects</li>
+          <li>Teaching and supervising Bachelor/Master students</li>
         </ul>
       </td>
     </tr>
@@ -69,8 +90,9 @@ Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scho
       <th scope="row">August 2016 to November 2016</th>
       <td>IT Intern at Audi China
         <ul>
-          <li>Managing and supporting projects related to digitalization (Audi Connect, App Center, and Cloud Project)</li>
-          <li>Supporting enterprise-university cooperation</li>
+          <li>Supported digitalization initiatives including Audi Connect, App Center, and cloud service integration</li>
+          <li>Assisted in coordinating enterprise–university collaboration projects</li>
+          <li>Contributed to internal IT process optimization and project support tasks</li>
         </ul>
       </td>
     </tr>
@@ -78,9 +100,9 @@ Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scho
       <th scope="row">May 2015 to October 2015</th>
       <td>Quality Management Intern at BMW AG
         <ul>
-          <li>Quality management by supporting SAP solution in production plant</li>
-          <li>Optimizing and updating the quality management metamodel</li>
-          <li>Creating quality reports</li>
+          <li>Supported quality management processes in the production plant through SAP-based solutions</li>
+          <li>Optimized and maintained the quality management metamodel</li>
+          <li>Generated comprehensive quality reports and supported data-driven process improvements</li>
         </ul>
       </td>
     </tr>
@@ -96,7 +118,7 @@ Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scho
       <th scope="row">February 2017 to April 2022</th>
       <td>Ph.D. in Electrical Engineering at TU Dresden, Germany
         <ul>
-          <li>Topic: In-network Audio Processing for Low-latency Industrial Applications</li>
+          <li>Dissertation topic: In-network Audio Processing for Low-latency Industrial Applications</li>
           <li>Final Grade: magna cum laude</li>
         </ul>
       </td>
@@ -105,7 +127,7 @@ Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scho
       <th scope="row">April 2012 to December 2016</th>
       <td>Master of Science in Compute Science at TU Dresden, Germany
         <ul>
-          <li>Master Thesis: Regenerating Codes</li>
+          <li>Master's Thesis: Regenerating Codes</li>
           <li>Thesis Grade: 1.3</li>
         </ul>
       </td>
@@ -114,7 +136,7 @@ Feel free to explore my <a href="/cv/">CV</a>, or visit my <a href="https://scho
       <th scope="row">August 2011 to March 2012</th>
       <td>German Language Course at TUDIAS, Germany
         <ul>
-          <li>Final Grade: DSH 2</li>
+          <li>Final Grade: DSH-2</li>
         </ul>
       </td>
     </tr>
