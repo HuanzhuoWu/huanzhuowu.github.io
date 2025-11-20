@@ -9,26 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-patents",
+          title: "Patents",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/patents/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-activity",
-          title: "Activity",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/activities/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Teaching activities during my Junior Researcher period.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "CV",
