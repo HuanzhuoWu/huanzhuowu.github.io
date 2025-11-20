@@ -12,8 +12,7 @@ profile:
     <p>Dr.-Ing Huanzhuo Wu</p>
     <p>Munich, Germany</p>
     <p>
-      Email <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a> or
-      LinkedIn <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      LinkedIn <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a> or Email <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>
     </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -32,17 +31,17 @@ latest_posts:
 
 Welcome to my professional space!
 
-I am a 5G/6G researcher at Nokia Standards in Munich, with a dedicated focus on advancing 3GPP network architecture, particularly in the areas of IMS, AI/ML-driven data collection, edge computing, and end-to-end user plane design. My work centers on driving innovation for next-generation mobile networks, contributing to key 3GPP study and work items, and leading back-office efforts that help shape the future of telecommunications.
+I am a 5G/6G researcher at Nokia Standards in Munich, with a dedicated focus on advancing 3GPP network architecture, particularly in the areas of IP Multimedia Subsystem (IMS), Artificial Intelligence/Machine Learning (AI/ML)-driven data collection, edge computing, and end-to-end user plane design. My work centers on driving innovation for next-generation mobile networks, contributing to key 3GPP study and work items, and leading back-office efforts that help shape the future of telecommunications.
 
-I hold a PhD in Electrical Engineering and a Master’s degree in Computer Science from TU Dresden, Germany, complemented by a Bachelor’s degree in Computer Science from Chang’an University, China. During my academic journey, I also gained valuable industry experience through internships at BMW and Audi, which strengthened the connection between theoretical research and real-world engineering.
+I hold a PhD in Electrical Engineering and a Master’s degree in Computer Science from TU Dresden, Germany, complemented by a Bachelor’s degree in Computer Science from Chang’an University, China.
 
 Throughout my industrial career and doctoral research, I have published numerous high-quality scientific articles and filed over 30 patents in the past three years. I actively contribute to the research community by serving as a reviewer and editorial board member for several respected conferences and journals in telecommunications.
 
 Here, you can explore my latest contributions and achievements:
   <ul>
-    <li>Patents Portfolio: Browse a selection of publicly accessible patents from the more than 30 I have filed, covering innovative work in IMS, AI/ML data collection security, edge computing, and beyond.</li>
-    <li>Recent Publications: Read my high-impact articles published in leading journals and conferences, reflecting ongoing research across 5G and 6G technologies.</li>
-    <li>Download My CV: Access a comprehensive overview of my background, experience, and technical expertise.</li>
+    <li><a href="/patents/">Patents Portfolio</a>: Browse a selection of publicly accessible patents from the more than 30 I have filed, covering innovative work in IMS, AI/ML data collection security, edge computing, and beyond.</li>
+    <li><a href="/publications/">Recent Publications</a>: Read my articles published in leading journals and conferences, reflecting ongoing research across 5G and 6G technologies (<a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar <i class="ai ai-google-scholar"></i></a> also available).</li>
+    <li><a href="/cv/">Get My CV</a>: Access a comprehensive overview of my background, experience, and technical expertise.</li>
   </ul>
 
 Feel free to navigate through this website to learn more about my professional journey and the technologies I am passionate about. Whether you are a fellow researcher, industry peer, or potential collaborator, I hope this site provides valuable insight into my work and vision for the future of mobile networks. If you would like to connect or collaborate, you can reach me via <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn">LinkedIn <i class="fab fa-linkedin"></i></a> or <a href="mailto:wuhuanzhuo@gmail.com">email <i class="fas fa-envelope"></i></a>.
@@ -67,8 +66,8 @@ Feel free to navigate through this website to learn more about my professional j
       <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, IMS evolution, AI/ML-driven data collection, edge computing, E2E user plane design
         <ul>
           <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS</li>
-          <li>Lead back-office IMS team for Nokia’s 3GPP standardization activities, coordinating internal consensus and driving contributions for key study and work items</li>
-          <li>Support research topics for 6G, including end-to-end user plane design, RAN Set concepts, and security aspect of AI/ML data collection</li>
+          <li>Lead back-office IMS team for Nokia’s 3GPP standardization activities, coordinating cross-functional consensus and driving contributions for key study and work items</li>
+          <li>Conduct research topics for 6G, including security aspect of AI/ML data collection, end-to-end user plane design, and RAN Set concepts</li>
           <li>Filed 30+ patents in RAN architecture, core architecture, and multimedia communication within three years</li>
           <li>Recognized with Nokia’s Outstanding Leadership Award and repeatedly acknowledged by reasearch leadership and the SA2 delegation lead for outstanding contributions</li>
         </ul>
@@ -78,11 +77,11 @@ Feel free to navigate through this website to learn more about my professional j
       <th scope="row">February 2017 to December 2022</th>
       <td>Researcher (Junior Researcher / PhD Candidate), TU Dresden, Germany <br> Research Areas: Electrical Engineering, In-network Computing, SDN, edge computing
         <ul>
-          <li>Coordinated and managed funded research projects with industry partners and research institutions; contributed to project proposal writing</li>
-          <li>Conducting research on In-network Computing and Industrial 5G networks using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework</li>
+          <li>Coordinated and managed funded research projects with industry partners and research institutions, overseeing the entire process from contributing to project proposal writing to delivering the final outcomes</li>
+          <li>Conducted research on In-network Computing and Industrial 5G networks using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework</li>
           <li>Published more than 20 high-quality scientific articles in leading journals and conferences.</li>
-          <li>Applying for in total 900k € funding on research projects</li>
-          <li>Teaching and supervising Bachelor/Master students</li>
+          <li>Successfully applied for and secured a total of €900k in funding on various research projects</li>
+          <li>Gave lectures and supervised Bachelor/Master students</li>
         </ul>
       </td>
     </tr>
@@ -152,7 +151,7 @@ Feel free to navigate through this website to learn more about my professional j
   </table>
 </div>
 
-<br>
+<!-- <br>
 <div class="news">
 <h2>Funding</h2>
 <div class="table-responsive">
@@ -168,8 +167,9 @@ Feel free to navigate through this website to learn more about my professional j
     </table>
   </div>
 </div>
+ -->
 
-<br>
+<!-- <br>
 <div class="news">
 <h2>Review/TPC Service</h2>
 <ul>
@@ -191,6 +191,7 @@ Feel free to navigate through this website to learn more about my professional j
   <li>Reviewer IEEE Global Communications Conference (GLOBECOM 2020)</li>
 </ul>
 </div>
+ -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

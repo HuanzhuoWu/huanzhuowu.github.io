@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/
 title: Activity
 # description: Research activities during my Junior Researcher period.
-nav: true
+nav: false
 nav_order: 3
 ---
 
