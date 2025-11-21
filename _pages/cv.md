@@ -8,4 +8,4 @@ nav_order: 4
 
 To download my CV in PDF format, please click [here](/assets/pdf/CV_Huanzhuo_Wu.pdf).
 
-<object data="/assets/pdf/CV_Huanzhuo_Wu.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/pdf/CV_Huanzhuo_Wu.pdf" width="700" height="1000" type='application/pdf'></object>

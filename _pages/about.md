@@ -9,11 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dr.-Ing Huanzhuo Wu</p>
-    <p>Munich, Germany</p>
-    <p>
-      LinkedIn <a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a> or Email <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>
-    </p>
+    <p>Dr.-Ing Huanzhuo Wu,</p>
+    <p>@ Munich Germany,</p>
+    <p><a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a> or <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -63,9 +61,9 @@ Feel free to navigate through this website to learn more about my professional j
   <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">January 2023 to present</th>
-      <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, IMS evolution, AI/ML-driven data collection, edge computing, E2E user plane design
+      <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, architecture, IMS, AI/ML-driven data collection security, edge computing, and E2E user plane design
         <ul>
-          <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS</li>
+          <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS, AI/ML data collection securtiy, and edge computing</li>
           <li>Lead back-office IMS team for Nokia’s 3GPP standardization activities, coordinating cross-functional consensus and driving contributions for key study and work items</li>
           <li>Conduct research topics for 6G, including security aspect of AI/ML data collection, end-to-end user plane design, and RAN Set concepts</li>
           <li>Filed 30+ patents in RAN architecture, core architecture, and multimedia communication within three years</li>
@@ -75,13 +73,13 @@ Feel free to navigate through this website to learn more about my professional j
     </tr>
     <tr>
       <th scope="row">February 2017 to December 2022</th>
-      <td>Researcher (Junior Researcher / PhD Candidate), TU Dresden, Germany <br> Research Areas: Electrical Engineering, In-network Computing, SDN, edge computing
+      <td>Researcher (Junior Researcher / PhD Candidate), TU Dresden, Germany <br> Research Areas: In-network Computing, SDN, AI/ML, edge computing
         <ul>
-          <li>Coordinated and managed funded research projects with industry partners and research institutions, overseeing the entire process from contributing to project proposal writing to delivering the final outcomes</li>
-          <li>Conducted research on In-network Computing and Industrial 5G networks using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework</li>
-          <li>Published more than 20 high-quality scientific articles in leading journals and conferences.</li>
+          <li>Conducted research on In-network Computing and AI/ML using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework</li>
+          <li>Coordinated and managed funded research projects with industry partners and research institutions, overseeing the entire process from project proposal writing to final project outcome delivery</li>
+          <li>Published 20+ high-quality scientific articles in leading journals and conferences.</li>
           <li>Successfully applied for and secured a total of €900k in funding on various research projects</li>
-          <li>Gave lectures and supervised Bachelor/Master students</li>
+          <li>Delivered lectures and supervised Bachelor’s and Master’s students</li>
         </ul>
       </td>
     </tr>
