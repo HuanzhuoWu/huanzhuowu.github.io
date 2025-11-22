@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dr.-Ing Huanzhuo Wu,</p>
+    <p>Dr.-Ing. Huanzhuo Wu,</p>
     <p>@ Munich Germany,</p>
     <p><a href="https://www.linkedin.com/in/huanzhuo-wu-4574878b" title="LinkedIn"><i class="fab fa-linkedin"></i></a> or <a href="mailto:wuhuanzhuo@gmail.com"><i class="fas fa-envelope"></i></a>.</p>
 
