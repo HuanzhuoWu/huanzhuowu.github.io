@@ -29,7 +29,7 @@ latest_posts:
 
 Welcome to my professional space!
 
-I am a 5G/6G researcher at Nokia Standards in Munich, with a dedicated focus on advancing 3GPP network architecture, particularly in the areas of IP Multimedia Subsystem (IMS), Artificial Intelligence/Machine Learning (AI/ML)-driven data collection, edge computing, and end-to-end user plane design. My work centers on driving innovation for next-generation mobile networks, contributing to key 3GPP study and work items, and leading back-office efforts that help shape the future of telecommunications.
+I am a 5G/6G researcher at Nokia Standards in Munich, with a dedicated focus on advancing 3GPP network architecture, particularly in the areas of IP Multimedia Subsystem (IMS), Artificial Intelligence/Machine Learning (AI/ML) data collection, edge computing, and end-to-end user plane design. My work focuses on driving innovation for next-generation mobile networks, contributing to key 3GPP study and work items, and leading back-office efforts that help shape the future of telecommunications.
 
 I hold a PhD in Electrical Engineering and a Master’s degree in Computer Science from TU Dresden, Germany, complemented by a Bachelor’s degree in Computer Science from Chang’an University, China.
 
@@ -61,7 +61,7 @@ Feel free to navigate through this website to learn more about my professional j
   <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">January 2023 to present</th>
-      <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, architecture, IMS, AI/ML-driven data collection security, edge computing, and E2E user plane design
+      <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, IMS, AI/ML data collection security, edge computing, and E2E user plane design
         <ul>
           <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS, AI/ML data collection securtiy, and edge computing</li>
           <li>Lead back-office IMS team for Nokia’s 3GPP standardization activities, coordinating cross-functional consensus and driving contributions for key study and work items</li>
@@ -76,8 +76,8 @@ Feel free to navigate through this website to learn more about my professional j
       <td>Researcher (Junior Researcher / PhD Candidate), TU Dresden, Germany <br> Research Areas: In-network Computing, SDN, AI/ML, edge computing
         <ul>
           <li>Conducted research on In-network Computing and AI/ML using scikit-learn, PyTorch, Mininet, Ryu and Open vSwitch SDN Framework</li>
+          <li>Published 20+ high-quality scientific articles in leading journals and conferences</li>
           <li>Coordinated and managed funded research projects with industry partners and research institutions, overseeing the entire process from project proposal writing to final project outcome delivery</li>
-          <li>Published 20+ high-quality scientific articles in leading journals and conferences.</li>
           <li>Successfully applied for and secured a total of €900k in funding on various research projects</li>
           <li>Delivered lectures and supervised Bachelor’s and Master’s students</li>
         </ul>
