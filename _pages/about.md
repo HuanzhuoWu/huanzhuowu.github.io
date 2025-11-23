@@ -63,11 +63,11 @@ Feel free to navigate through this website to learn more about my professional j
       <th scope="row">January 2023 to present</th>
       <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, IMS, AI/ML data collection security, edge computing, and E2E user plane design
         <ul>
-          <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS, AI/ML data collection securtiy, and edge computing</li>
+          <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS, AI/ML data collection security, and edge computing</li>
           <li>Lead back-office IMS team for Nokia’s 3GPP standardization activities, coordinating cross-functional consensus and driving contributions for key study and work items</li>
           <li>Conduct research topics for 6G, including security aspect of AI/ML data collection, end-to-end user plane design, and RAN Set concepts</li>
           <li>Filed 30+ patents in RAN architecture, core architecture, and multimedia communication within three years</li>
-          <li>Recognized with Nokia’s Outstanding Leadership Award and repeatedly acknowledged by reasearch leadership and the SA2 delegation lead for outstanding contributions</li>
+          <li>Recognized with Nokia’s Outstanding Leadership Award and repeatedly acknowledged by research leadership and the SA2 delegation lead for outstanding contributions</li>
         </ul>
       </td>
     </tr>
