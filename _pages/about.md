@@ -29,15 +29,15 @@ latest_posts:
 
 Welcome to my professional space!
 
-I am a 5G/6G researcher at Nokia Standards in Munich, with a dedicated focus on advancing 3GPP network architecture, particularly in the areas of IP Multimedia Subsystem (IMS), Artificial Intelligence/Machine Learning (AI/ML) data collection, edge computing, and end-to-end user plane design. My work focuses on driving innovation for next-generation mobile networks, contributing to key 3GPP study and work items, and leading back-office efforts that help shape the future of telecommunications.
+I am a 5G/6G standards researcher at Nokia Standards in Munich, with extensive experience in 3GPP system architecture and security across SA2, SA3, and SA4. I focus on advancing next-generation mobile networks, particularly in IP Multimedia Subsystem (IMS) evolution, 6G data framework security, edge computing, and end-to-end user plane design. I lead research efforts on IMS Evolution and Data Framework Security, where I define standardization strategies, contribute to intellectual property creation, coordinate cross-working-group alignment, and drive the development of technical documents (tdocs) for 3GPP standardization. I also actively participate as a SA3 delegate, focusing on Data Framework Security. My work contributes to key 3GPP study and work items aimed at shaping the architecture and security foundations of future mobile networks.
 
 I hold a PhD in Electrical Engineering and a Master’s degree in Computer Science from TU Dresden, Germany, complemented by a Bachelor’s degree in Computer Science from Chang’an University, China.
 
-Throughout my industrial career and doctoral research, I have published numerous high-quality scientific articles and filed over 30 patents in the past three years. I actively contribute to the research community by serving as a reviewer and editorial board member for several respected conferences and journals in telecommunications.
+Throughout my industrial career and doctoral research, I have published numerous high-quality scientific articles and filed over 50 patents. I actively contribute to the research community by serving as a reviewer and editorial board member for several respected conferences and journals in telecommunications.
 
 Here, you can explore my latest contributions and achievements:
   <ul>
-    <li><a href="/patents/">Patents Portfolio</a>: Browse a selection of publicly accessible patents from the more than 30 I have filed, covering innovative work in IMS, AI/ML data collection security, edge computing, and beyond.</li>
+    <li><a href="/patents/">Patents Portfolio</a>: Browse a selection of publicly accessible patents from the more than 50 I have filed, covering innovative work in IMS, 6G data framework security, edge computing, and beyond.</li>
     <li><a href="/publications/">Recent Publications</a>: Read my articles published in leading journals and conferences, reflecting ongoing research across 5G and 6G technologies (<a href="https://scholar.google.com/citations?user=gutctJYAAAAJ&hl">Google Scholar <i class="ai ai-google-scholar"></i></a> also available).</li>
     <li><a href="/cv/">Get My CV</a>: Access a comprehensive overview of my background, experience, and technical expertise.</li>
   </ul>
@@ -61,13 +61,13 @@ Feel free to navigate through this website to learn more about my professional j
   <table class="table table-sm table-borderless">
     <tr>
       <th scope="row">January 2023 to present</th>
-      <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, IMS, AI/ML data collection security, edge computing, and E2E user plane design
+      <td>Senior Research Specialist, Nokia Standards, Munich, Germany <br>Focus Areas: 5G-Advanced & 6G research, 3GPP network architecture, IMS evolution, 6G Data Framework Security, edge computing and future network architecture
         <ul>
-          <li>Contribute to 3GPP SA2/SA3/SA4 and RAN3 topics, with a primary emphasis on IMS, AI/ML data collection security, and edge computing</li>
-          <li>Lead back-office IMS team for Nokia’s 3GPP standardization activities, coordinating cross-functional consensus and driving contributions for key study and work items</li>
-          <li>Conduct research topics for 6G, including security aspect of AI/ML data collection, end-to-end user plane design, and RAN Set concepts</li>
-          <li>Filed 30+ patents in RAN architecture, core architecture, and multimedia communication within three years</li>
-          <li>Recognized with Nokia’s Outstanding Leadership Award and repeatedly acknowledged by research leadership and the SA2 delegation lead for outstanding contributions</li>
+          <li>Lead two research teams on IMS and 6G Data Framework Security, defining long-term standardization strategies across SA2 and SA3</li>
+          <li>Drive intellectual property creation and standards positioning by identifying innovation opportunities, coordinating patent generation, and aligning 3GPP contributions with protected intellectual property</li>
+          <li>Contribute to and author 3GPP technical documents (tdocs), supporting Nokia delegates in SA2, SA3 and SA4 meetings and delegating the company in SA3 security activities</li>
+          <li>Coordinate cross-functional collaboration among research, standards and product teams to build consensus and advance key study and work items</li>
+          <li>Recognized with Nokia’s Outstanding Leadership Award and repeatedly acknowledged by research leadership and the delegation leads for outstanding contributions</li>
         </ul>
       </td>
     </tr>
